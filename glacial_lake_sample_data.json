@@ -1,0 +1,67 @@
+{
+    "Tsho Rolpa": {
+        "lake_area_km2": 2.4259271480044253,
+        "lake_volume_mcm": 46.30336421253325,
+        "glacier_retreat_rate": 21.8134333981972,
+        "moraine_type": "Mixed",
+        "dam_stability_score": 7.861337287990793,
+        "avg_annual_precip_mm": 1423.0625394498295,
+        "max_temp_last_5yr": 4.375098052914095,
+        "past_glof_event_nearby": 0,
+        "distance_to_village_km": 11.79428710040076,
+        "glacier_slope_degree": 18.09098732886084,
+        "risk_category": "Green"
+    },
+    "South Lhonak Lake": {
+        "lake_area_km2": 2.09903641514009,
+        "lake_volume_mcm": 49.03342858997964,
+        "glacier_retreat_rate": 33.656879112527385,
+        "moraine_type": "Mixed",
+        "dam_stability_score": 5.482508788755359,
+        "avg_annual_precip_mm": 1386.659672186918,
+        "max_temp_last_5yr": 2.3136499544471776,
+        "past_glof_event_nearby": 0,
+        "distance_to_village_km": 21.69163409196545,
+        "glacier_slope_degree": 23.64004629011501,
+        "risk_category": "Green"
+    },
+    "Imja Tsho": {
+        "lake_area_km2": 1.8474915241906944,
+        "lake_volume_mcm": 50.8848819446258,
+        "glacier_retreat_rate": 30.02715655379681,
+        "moraine_type": "Moraine",
+        "dam_stability_score": 0.2285499757089548,
+        "avg_annual_precip_mm": 1169.9701095195453,
+        "max_temp_last_5yr": 1.359289790290514,
+        "past_glof_event_nearby": 0,
+        "distance_to_village_km": 12.136011720795835,
+        "glacier_slope_degree": 26.28320688097457,
+        "risk_category": "Green"
+    },
+    "Thulagi Lake": {
+        "lake_area_km2": 1.904077641563902,
+        "lake_volume_mcm": 29.332481359303294,
+        "glacier_retreat_rate": 17.55795241874495,
+        "moraine_type": "Ice-cored",
+        "dam_stability_score": 1.6121191540864377,
+        "avg_annual_precip_mm": 878.7877385288893,
+        "max_temp_last_5yr": 2.611970199936356,
+        "past_glof_event_nearby": 0,
+        "distance_to_village_km": 12.17491229459081,
+        "glacier_slope_degree": 25.43441761691436,
+        "risk_category": "Green"
+    },
+    "Chong Khumdan Lake": {
+        "lake_area_km2": 1.1103005535482495,
+        "lake_volume_mcm": 41.486478936086655,
+        "glacier_retreat_rate": 16.038585146466414,
+        "moraine_type": "Mixed",
+        "dam_stability_score": 2.401112602792266,
+        "avg_annual_precip_mm": 1138.8420078634315,
+        "max_temp_last_5yr": 5.84461418105227,
+        "past_glof_event_nearby": 0,
+        "distance_to_village_km": 15.107427642876951,
+        "glacier_slope_degree": 20.59641825923033,
+        "risk_category": "Green"
+    }
+}
